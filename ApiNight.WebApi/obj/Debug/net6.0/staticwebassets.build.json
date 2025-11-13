@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sd81y5A6uor/cnN5b+hCDxBImKJ7RUrWrOzuIpbIsns=",
+  "Source": "ApiNight.WebApi",
+  "BasePath": "_content/ApiNight.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

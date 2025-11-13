@@ -1,0 +1,15 @@
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\bin\Debug\net6.0\ApiNight.EntityLayer.deps.json
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\bin\Debug\net6.0\ApiNight.EntityLayer.runtimeconfig.json
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\bin\Debug\net6.0\ApiNight.EntityLayer.dll
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\bin\Debug\net6.0\ApiNight.EntityLayer.pdb
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\obj\Debug\net6.0\ApiNight.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\obj\Debug\net6.0\ApiNight.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\obj\Debug\net6.0\ApiNight.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\obj\Debug\net6.0\ApiNight.EntityLayer.AssemblyInfo.cs
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\obj\Debug\net6.0\ApiNight.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\obj\Debug\net6.0\ApiNight.EntityLayer.sourcelink.json
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\obj\Debug\net6.0\ApiNight.EntityLayer.dll
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\obj\Debug\net6.0\refint\ApiNight.EntityLayer.dll
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\obj\Debug\net6.0\ApiNight.EntityLayer.pdb
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\obj\Debug\net6.0\ApiNight.EntityLayer.genruntimeconfig.cache
+C:\Users\gizem\source\repos\ApiNight\ApiNight.EntityLayer\obj\Debug\net6.0\ref\ApiNight.EntityLayer.dll

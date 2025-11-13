@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\ApiNight\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{828A55D6-E5AB-4FFB-843C-BF193F777093}|ApiNight.WebApi\\ApiNight.WebApi.csproj|c:\\users\\gizem\\source\\repos\\apinight\\apinight.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828A55D6-E5AB-4FFB-843C-BF193F777093}|ApiNight.WebApi\\ApiNight.WebApi.csproj|solutionrelative:apinight.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828A55D6-E5AB-4FFB-843C-BF193F777093}|ApiNight.WebApi\\ApiNight.WebApi.csproj|c:\\users\\gizem\\source\\repos\\apinight\\apinight.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{828A55D6-E5AB-4FFB-843C-BF193F777093}|ApiNight.WebApi\\ApiNight.WebApi.csproj|solutionrelative:apinight.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857580FC-D36C-4ECA-BD7B-B51FD2E1C1C7}|ApiNight.BusinessLayer\\ApiNight.BusinessLayer.csproj|c:\\users\\gizem\\source\\repos\\apinight\\apinight.businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857580FC-D36C-4ECA-BD7B-B51FD2E1C1C7}|ApiNight.BusinessLayer\\ApiNight.BusinessLayer.csproj|solutionrelative:apinight.businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ApiNight.WebApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ApiNight.WebApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:26:31.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "ApiNight.BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "ApiNight.BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:22:16.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ApiNight.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebApi\\Program.cs",
+              "RelativeToolTip": "ApiNight.WebApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:13:06.31Z",
+              "EditorCaption": ""
             }
           ]
         }

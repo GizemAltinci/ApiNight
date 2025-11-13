@@ -1,0 +1,16 @@
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\bin\Debug\net6.0\ApiNight.DataAccessLayer.deps.json
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\bin\Debug\net6.0\ApiNight.DataAccessLayer.dll
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\bin\Debug\net6.0\ApiNight.DataAccessLayer.pdb
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\bin\Debug\net6.0\ApiNight.EntityLayer.dll
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\bin\Debug\net6.0\ApiNight.EntityLayer.pdb
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\obj\Debug\net6.0\ApiNight.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\obj\Debug\net6.0\ApiNight.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\obj\Debug\net6.0\ApiNight.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\obj\Debug\net6.0\ApiNight.DataAccessLayer.AssemblyInfo.cs
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\obj\Debug\net6.0\ApiNight.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\obj\Debug\net6.0\ApiNight.DataAccessLayer.sourcelink.json
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\obj\Debug\net6.0\ApiNight.74A248C7.Up2Date
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\obj\Debug\net6.0\ApiNight.DataAccessLayer.dll
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\obj\Debug\net6.0\refint\ApiNight.DataAccessLayer.dll
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\obj\Debug\net6.0\ApiNight.DataAccessLayer.pdb
+C:\Users\gizem\source\repos\ApiNight\ApiNight.DataAccessLayer\obj\Debug\net6.0\ref\ApiNight.DataAccessLayer.dll

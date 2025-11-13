@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\ApiNight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BC8F5F-1671-467E-AAB7-915747590093}|ApiNight.DataAccessLayer\\ApiNight.DataAccessLayer.csproj|c:\\users\\gizem\\source\\repos\\apinight\\apinight.dataaccesslayer\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BC8F5F-1671-467E-AAB7-915747590093}|ApiNight.DataAccessLayer\\ApiNight.DataAccessLayer.csproj|solutionrelative:apinight.dataaccesslayer\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BC8F5F-1671-467E-AAB7-915747590093}|ApiNight.DataAccessLayer\\ApiNight.DataAccessLayer.csproj|c:\\users\\gizem\\source\\repos\\apinight\\apinight.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BC8F5F-1671-467E-AAB7-915747590093}|ApiNight.DataAccessLayer\\ApiNight.DataAccessLayer.csproj|solutionrelative:apinight.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BC8F5F-1671-467E-AAB7-915747590093}|ApiNight.DataAccessLayer\\ApiNight.DataAccessLayer.csproj|c:\\users\\gizem\\source\\repos\\apinight\\apinight.dataaccesslayer\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BC8F5F-1671-467E-AAB7-915747590093}|ApiNight.DataAccessLayer\\ApiNight.DataAccessLayer.csproj|solutionrelative:apinight.dataaccesslayer\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "ApiNight.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "ApiNight.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:14:08.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.DataAccessLayer\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ApiNight.DataAccessLayer\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.DataAccessLayer\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "ApiNight.DataAccessLayer\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:59:46.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.DataAccessLayer\\Context\\ApiContext.cs",
+              "RelativeDocumentMoniker": "ApiNight.DataAccessLayer\\Context\\ApiContext.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.DataAccessLayer\\Context\\ApiContext.cs",
+              "RelativeToolTip": "ApiNight.DataAccessLayer\\Context\\ApiContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:48:22.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

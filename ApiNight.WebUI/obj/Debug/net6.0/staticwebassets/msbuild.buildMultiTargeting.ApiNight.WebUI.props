@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiNight.WebUI.props" />
+</Project>

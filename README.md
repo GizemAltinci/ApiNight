@@ -31,22 +31,6 @@ Projede aşağıdaki özellikler uygulanmıştır:
 
 ---
 
-## 📁 Proje Yapısı
-
-```
-📂 ApiNight
- ┣ 📂 ApiNight.WebApi       → API Katmanı
- ┃ ┣ CategoriesController   → Kategoriler için API uç noktaları
- ┃ ┣ ProductsController     → Ürünler için API uç noktaları
- ┃ ┗ DTO klasörleri
- ┣ 📂 ApiNight.WebUI        → MVC Arayüzü (API tüketen katman)
- ┃ ┣ CategoryController
- ┃ ┣ ProductController
- ┃ ┣ Views
- ┃ ┗ DTO klasörleri
-```
-
----
 
 ## 🧪 API Testleri – Swagger
 

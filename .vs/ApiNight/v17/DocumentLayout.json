@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\ApiNight\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31CDC67A-63F1-4D0E-B7EA-D49084BCF059}|ApiNight.WebUI\\ApiNight.WebUI.csproj|c:\\users\\gizem\\source\\repos\\apinight\\apinight.webui\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31CDC67A-63F1-4D0E-B7EA-D49084BCF059}|ApiNight.WebUI\\ApiNight.WebUI.csproj|solutionrelative:apinight.webui\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31CDC67A-63F1-4D0E-B7EA-D49084BCF059}|ApiNight.WebUI\\ApiNight.WebUI.csproj|c:\\users\\gizem\\source\\repos\\apinight\\apinight.webui\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31CDC67A-63F1-4D0E-B7EA-D49084BCF059}|ApiNight.WebUI\\ApiNight.WebUI.csproj|solutionrelative:apinight.webui\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{31CDC67A-63F1-4D0E-B7EA-D49084BCF059}|ApiNight.WebUI\\ApiNight.WebUI.csproj|c:\\users\\gizem\\source\\repos\\apinight\\apinight.webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31CDC67A-63F1-4D0E-B7EA-D49084BCF059}|ApiNight.WebUI\\ApiNight.WebUI.csproj|solutionrelative:apinight.webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31CDC67A-63F1-4D0E-B7EA-D49084BCF059}|ApiNight.WebUI\\ApiNight.WebUI.csproj|c:\\users\\gizem\\source\\repos\\apinight\\apinight.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,41 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebUI\\Views\\Product\\CreateProduct.cshtml",
-              "RelativeDocumentMoniker": "ApiNight.WebUI\\Views\\Product\\CreateProduct.cshtml",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebUI\\Views\\Product\\CreateProduct.cshtml",
-              "RelativeToolTip": "ApiNight.WebUI\\Views\\Product\\CreateProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T19:05:37.465Z",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebUI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ApiNight.WebUI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebUI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ApiNight.WebUI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:34:10.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductList.cshtml",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebUI\\Views\\Product\\ProductList.cshtml",
-              "RelativeDocumentMoniker": "ApiNight.WebUI\\Views\\Product\\ProductList.cshtml",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebUI\\Views\\Product\\ProductList.cshtml",
-              "RelativeToolTip": "ApiNight.WebUI\\Views\\Product\\ProductList.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T18:27:26.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebUI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ApiNight.WebUI\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\gizem\\source\\repos\\ApiNight\\ApiNight.WebUI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ApiNight.WebUI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAcwCMAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T18:20:59.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T18:20:59.508Z"
             }
           ]
         }
